@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Xổ số Sóc Trăng</string>
+    <string name="back_button">back_button</string>
+
+    <string name="mt1">Trò chơi xổ số</string>
+    <string name="mt2">Trò chơi xổ số các chữ số</string>
+    <string name="mt3">Trò chơi rút thăm nhanh</string>
+
+    <string name="mt11">Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+    <string name="mt22">Đây là một phiên bản hiện đại hơn của xổ số rất phổ biến trên toàn thế giới. Con số này chiếm khoảng 7% tổng doanh thu xổ số của Việt Nam. Người chơi chọn các số từ 0 đến 9 để tạo ra kết hợp chiến thắng trong loại hình xổ số này.</string>
+    <string name="mt33">Mặc dù cơ cấu giải thưởng khác nhau, trò chơi rút thăm nhanh rất đơn giản để chơi. Người chơi chỉ cần chọn những con số yêu thích của họ và số tiền họ muốn đặt cược. Họ phải đặt cược trước khi trận hòa bắt đầu. Bởi vì việc rút thăm có thể diễn ra trong vài phút, không có gì lạ khi nhìn thấy những người chơi xổ số xếp hàng dài trong các quầy xổ</string>
+    <string name="rule_title">Quy tắc tham gia xổ số là gì?</string>
+
+    <string name="n1">Người dưới 18 tuổi không được phép mua vé số, cổ phiếu. Người nào cố ý bán vé số hoặc chia cho người dưới 18 tuổi là tội nhẹ.</string>
+<string name="n2">Những người tham gia phải chọn số của riêng họ từ một lượng lớn các tùy chọn và họ nên kiểm tra kỹ vé của mình trước khi rời khỏi đại lý. Hãy nhớ rằng nếu vé bị đánh cắp, không đọc được hoặc bị hỏng, nó sẽ trở nên vô hiệu. Người giữ vé phải chịu trách nhiệm cho tờ vé, không phải vé số.</string>
+<string name="n3">Các con số trúng thưởng được quay đều đặn, thường là một hoặc hai lần một tuần. Để giành chiến thắng trong giải độc đắc, tất cả các số được rút ra phải trùng khớp với nhau. Ngoài phần thưởng chính, thường xuyên có các giải thưởng phụ, với ít nhất ba con số trùng khớp.</string>
+<string name="n4">Phần thưởng xổ số chính là cái này. Để giành chiến thắng, bạn phải khớp tất cả các số được rút ra. Ngoài giải độc đắc, thường xuyên có các giải thưởng nhỏ hơn. Phần thưởng cao nhất trong một trò chơi hoặc cuộc thi (chẳng hạn như xổ số) thường là một khoản tiền khổng lồ được tạo ra từ việc tích lũy các giải thưởng chưa từng có.</string>
+<string name="n5">Some lotteries add an extra number to the mix to boost non-jackpot prize payouts. Mark the Megaplier multiplier box to get started. The drawn number multiplies the odds of winning prizes and frequently costs extra. True, there is an additional cost per line, but you also have the possibility to increase your prize by up to five times if you win.</string>
+<string name="n6">Đối với những người đã mua vé số không trúng thưởng, đây là cơ hội để tăng thêm lợi ích cho họ.</string>
+
+    <string name="abt1">Kết quả của xổ số Việt Nam được quyết định bởi kết quả quay số của công ty xổ số. Tổng công ty "Hà Nội" có 27 chuỗi số, trong khi các công ty khác chỉ có 18. Bạn phải ghi các chuỗi số và loại cược khi đặt cược vào một tờ vé số. Bạn giành được giải thưởng liên quan nếu bạn đặt cược vào chuỗi số thích hợp ở đúng vị trí.</string>
+<string name="abt2">Mỗi tờ vé số có sáu chữ số và được xổ số vào mỗi buổi chiều. Kết quả được hiển thị tại các quầy xổ số và cũng có thể được xem trực tuyến.
+Nhiều người dân địa phương thích chơi xổ số Việt Nam vì vé của họ có khả năng trúng giải cao hơn so với các loại hình xổ số khác chỉ trả thưởng khi đoán đúng các con số từ kỳ quay thưởng có sáu chữ số.</string>
+    <string name="front_page_title">Chơi xổ số Việt Nam</string>
+    <string name="next_button_name">QUAY LẠI TRANG CHỦ</string>
+    <string name="content_title">Xổ số Việt Nam: Cách chơi</string>
+    <string name="splash">splash_screen</string>
+    <string name="image">banner</string>
+
+    <string name="fab_title">Làm thế nào để xổ số hoạt động?</string>
+    <string name="fab_con">Trước tiên, bạn phải mua một vé số với những con số bạn muốn. Bạn phải chọn các con số của mình từ một dải số cụ thể trong xổ số mà bạn đang chơi. Các số liệu sẽ được chọn ngẫu nhiên từ dải ô này. Bạn đã trúng xổ số nếu số của bạn trùng với số trúng thưởng!</string>
+    <string name="dialog_button">dialog_button</string>
+
+</resources>
